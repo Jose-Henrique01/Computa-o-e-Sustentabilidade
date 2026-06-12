@@ -32,5 +32,3 @@ Este projeto foi criado para participar do **Programa Agrinho 2026** (ou similar
 - **CSS3** – estilização, grid/flexbox, animações suaves, responsividade.
 - **SVG** – imagens vetorizadas embutidas (não dependem de rede externa).
 - **Google Fonts** – fonte “Inter” para tipografia limpa e moderna.
-
-## 📁 Estrutura de arquivos
